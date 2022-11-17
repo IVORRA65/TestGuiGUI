@@ -3,6 +3,10 @@ h1{
     background-color: red;
 }
 
+h2{
+    width: 70%;
+    background: blue;
+}
 body{
     background: grey;
     
